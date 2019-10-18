@@ -1,1 +1,2 @@
 GIT to rozproszony system kontroli wersji
+GIT przechowuje dane jako mogawki i tworzy sumy kontrolne
