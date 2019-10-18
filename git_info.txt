@@ -1,0 +1,1 @@
+GIT to rozproszony system kontroli wersji
